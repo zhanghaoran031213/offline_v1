@@ -277,3 +277,4 @@ insert into bigdata_offline_v2_ws.ads_coupon_stats select * from bigdata_offline
 
 
 
++
